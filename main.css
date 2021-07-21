@@ -135,31 +135,31 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-image: linear-gradient(#3E0043, #7A2182);
+	background-image: linear-gradient(#000C71, #0F5ECB, #6B92F7, #EFC7F8);
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #EFC7F8;
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    color: #333333;
+    font-family: 'Inter', sans-serif;
+    font-weight: Bold;
+    color: #FFFFFF;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: #333333;
+    font-family: 'Inter', sans-serif;
+    font-weight: Bold;
+    color: #FFFFFF;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    color: #575757;
+    font-family: 'Inter', sans-serif;
+    font-weight: Bold;
+    color: #FFFFFF;
     font-size: 12px;
 }
 
@@ -175,9 +175,9 @@ img.profile-pic {
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Inter', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: Medium;
 }
 
 @media screen and (max-width: 600px) {
@@ -189,7 +189,7 @@ img.profile-pic {
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 80%;
-    width: 80%;
+    height: 60%;
+    width: 60%;
   }
 }
