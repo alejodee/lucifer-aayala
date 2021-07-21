@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Mareco;Rodrigo;;;
-FN: Mareco  Rodrigo 
-ORG:Mil Cinco;
-TITLE:Enc. Logistica
-EMAIL;type=INTERNET;type=WORK;type=pref:logistica@milcinco.com.py
-TEL;type=WORK;type=VOICE:+595983554328
-item1.ADR;type=WORK;type=pref:;;Luis de Granada 1005 esq. Diagonal Molas. Complejo Arista, Local 4
+N:Ayala;Alex;;;
+FN: Ayala  Alex 
+ORG:Lucifer;
+TITLE:Co-founder
+EMAIL;type=INTERNET;type=WORK;type=pref:corgisama@gmail.com
+TEL;type=WORK;type=VOICE:+595971549184
 item1.X-ABADR:sg
-item2.URL;type=pref:milcinco.com.py
+item2.URL;type=pref:lucifer.media
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
