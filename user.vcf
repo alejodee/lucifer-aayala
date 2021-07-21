@@ -7,7 +7,6 @@ ORG:Lucifer;
 TITLE:Co-founder
 EMAIL;type=INTERNET;type=WORK;type=pref:corgisama@gmail.com
 TEL;type=WORK;type=VOICE:+595971549184
-item1.X-ABADR:sg
-item2.URL;type=pref:lucifer.media
-item2.X-ABLabel:_$!<HomePage>!$_
+item1.URL;type=pref:lucifer.media
+item1.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
